@@ -15,7 +15,7 @@ from threading import Thread
 from selenium.webdriver.support.select import Select
 import os
 
-PATH = r"C:\Program Files (x86)\chromedriver.exe"
+PATH = r"chromedriver.exe"
 delay = 19
 chrome_options = ChromeOptions()
 #chrome_options.add_argument('headless')
